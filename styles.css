@@ -1,0 +1,27 @@
+.p {
+    height: 15px;
+}
+.search {
+    height: 20px;
+}
+.name {
+    display: flex;
+    align-items: center;
+    height: 20px;
+    width: 58px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.football {
+    height: 300px;
+}
+    
+    
